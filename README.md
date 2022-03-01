@@ -1,5 +1,5 @@
 # Topic-based Chat Room
- Topic-based implemented Chat Room using RabbitMQ in Go
+ Topic-based implementation of a chat room using RabbitMQ in Go
 
 
 <br>
